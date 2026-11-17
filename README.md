@@ -4,4 +4,4 @@ i make and break things.
 
 #### reach me
 
-[Email](mailto:ademirtas@student.ethz.ch) · [LinkedIn](https://www.linkedin.com/in/ardacinardemirtas/)
+[email](mailto:ademirtas@student.ethz.ch) · [linkedIn](https://www.linkedin.com/in/ardacinardemirtas/)
