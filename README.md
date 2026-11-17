@@ -1,7 +1,7 @@
-### Hi, I'm Arda 👋
+### hey i'm arda 👋
 
-I like problems where geometry, learning, and the physical world meet, which usually means I end up somewhere between 3D vision, generative modeling, and robotics.
+i make and break things.
 
-#### Reach me
+#### reach me
 
 [Email](mailto:ademirtas@student.ethz.ch) · [LinkedIn](https://www.linkedin.com/in/ardacinardemirtas/)
